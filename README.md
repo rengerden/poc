@@ -1,2 +1,3 @@
 # poc
-proyects poc for architecture transitive 
+proyects poc for architecture transitive examples
+ 
